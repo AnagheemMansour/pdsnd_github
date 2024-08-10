@@ -19,3 +19,6 @@ This project involves analyzing bikeshare data from Chicago, New York City, and 
 - [Udacity GitHub Repository](https://github.com/udacity/pdsnd_github): The repository from which this project was forked.
 - [Python Data Analysis Blog](https://example.com/blog): Blog post that provided insights on data analysis techniques.
 
+### New Section
+This section contains additional details about the project.
+
